@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+https://8bllgrl.github.io/font-combo-parallax/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
