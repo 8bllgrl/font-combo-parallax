@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-typography/static/css/main.68944acf.css",
+    "main.js": "/react-typography/static/js/main.2d7520d5.js",
+    "index.html": "/react-typography/index.html",
+    "main.68944acf.css.map": "/react-typography/static/css/main.68944acf.css.map",
+    "main.2d7520d5.js.map": "/react-typography/static/js/main.2d7520d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68944acf.css",
+    "static/js/main.2d7520d5.js"
+  ]
+}

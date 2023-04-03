@@ -1,3 +1,5 @@
+import React from 'react';
+
 function FontPage({ color, textColor, title, paragraph, fontOne, fontTwo }) {
   const boxStyle = {
     backgroundColor: color,
