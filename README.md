@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+# Parallax Font Combinations
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Parallax Font Combinations is a React website that allows you to view font combinations together, with different colors and themes. The website is not yet published anywhere, but it can be run locally on your machine.
 
-## Available Scripts
+## Usage
 
-In the project directory, you can run:
+To use Parallax Font Combinations, follow these steps:
 
-### `npm start`
+1. Install Node.js on your computer if you haven't already.
+2. Clone this repository to your local machine.
+3. Open a terminal or command prompt and navigate to the directory where the repository is located.
+4. Type `npm install` and press Enter to install the necessary dependencies.
+5. Type `npm start` and press Enter to start the development server.
+6. Open a web browser and go to `http://localhost:3000` to view the website.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+You can scroll through the entirety of the website to see all of the font combinations that the creator has found interesting.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Please note that this website is still a work in progress, and there are plans to add routing so that you can choose from a gallery of your favorite fonts to see them being used in various ways.
 
-### `npm test`
+## Contributing
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Contributions are not available at this time. You are free to open an issue, however.
